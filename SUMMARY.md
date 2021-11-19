@@ -21,7 +21,8 @@
 
 ## References
 
-* [Contracts](references/contracts.md)
+* [Contracts v2](references/contracts-v2.md)
+* [Contracts v1](references/contracts.md)
 * [Multisig Wallet](references/multisig-wallet.md)
 * [Equations](references/equations.md)
 * [Glossary](references/glossary.md)

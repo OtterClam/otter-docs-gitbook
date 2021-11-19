@@ -1,8 +1,6 @@
 # Roadmap
 
-
-
-OtterClam is aim to become **A Reservation Currency Memecoin**. In a short term, we would focusing on expansion. By combing NFT and bonding system, OtterClam could become first OHM fork with NFT loyalies.
+OtterClam is aim to become **A Reservation Currency Memecoin**. In a short term, we would focusing on expansion. By combining NFT and bonding system, OtterClam could become first OHM fork with NFT loyalies.
 
 ### 2021Q4 <a href="2021q4" id="2021q4"></a>
 
