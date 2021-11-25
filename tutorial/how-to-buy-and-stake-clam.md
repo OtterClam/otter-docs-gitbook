@@ -23,7 +23,7 @@ You can find more CEXs on here [https://awesomepolygon.com/cex/](https://awesome
 #### Buy $CLAM on QuickSwap
 
 1. Get some $MATICs from CEX listed above
-2. Go to QuickSwap, the dex on the Polygon network [https://quickswap.exchange/#/swap?outputCurrency=0x4d6A30EFBE2e9D7A9C143Fce1C5Bb30d9312A465](https://quickswap.exchange/#/swap?outputCurrency=0x4d6A30EFBE2e9D7A9C143Fce1C5Bb30d9312A465)
+2. Go to QuickSwap, the dex on the Polygon network [https://quickswap.exchange/#/swap?outputCurrency=0x4d6A30EFBE2e9D7A9C143Fce1C5Bb30d9312A465](https://quickswap.exchange/#/swap?outputCurrency=0xC250e9987A032ACAC293d838726C511E6E1C029d)
 3. Click “Switch to Polygon”\
    ![](https://i.imgur.com/u2LpwRp.jpg)\
 
