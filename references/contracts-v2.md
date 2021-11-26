@@ -15,8 +15,13 @@
 
 * Bond Calculator: [0x651125e097d7e691f3df5f9e5224f0181e3a4a0e](https://polygonscan.com/address/0x651125e097d7e691f3df5f9e5224f0181e3a4a0e)​
 * MAI bond: [0x603A74Fd527b85E0A1e205517c1f24aC71f5C263](https://polygonscan.com/address/0x603A74Fd527b85E0A1e205517c1f24aC71f5C263)​
+* MAI (4,4) bond: [0x779CB532e289CbaA3d0692Ae989C63C2B4fBd4d0](https://polygonscan.com/address/0x779CB532e289CbaA3d0692Ae989C63C2B4fBd4d0)
 * MAI/CLAM LP bond: [0x706587BD39322A6a78ddD5491cDbb783F8FD983E](https://polygonscan.com/address/0x706587BD39322A6a78ddD5491cDbb783F8FD983E)
-* FRAX bond​: [0x5Fa0FBDb07Fe9647B43426dcc79da984f0327E4a](https://polygonscan.com/address/0x5Fa0FBDb07Fe9647B43426dcc79da984f0327E4a)
+* FRAX (4,4) bond v2: [0x9e1430EB3b56e8953a342BFBBdD2DDC3b6E84d9D](https://polygonscan.com/address/0x9e1430EB3b56e8953a342BFBBdD2DDC3b6E84d9D)
+
+### Deprecated Bonds
+
+* FRAX (4,4) bond​ v1: [0x5Fa0FBDb07Fe9647B43426dcc79da984f0327E4a](https://polygonscan.com/address/0x5Fa0FBDb07Fe9647B43426dcc79da984f0327E4a)
 
 ### QuickSwap LP <a href="quickswap-lp" id="quickswap-lp"></a>
 
