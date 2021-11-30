@@ -17,6 +17,7 @@ OtterClam is aim to become **A Reservation Currency Memecoin**. In a short term,
 * [ ] A new bond discount system with NFT
 * [ ] NFT Airdrop to stakers (12/15)
 * [ ] (9,9) leverage for sCLAM
+* [ ] Matic Bond
 * [ ] Zap to LP bond
 
 #### DAO transformation <a href="#dao-transformation" id="dao-transformation"></a>
