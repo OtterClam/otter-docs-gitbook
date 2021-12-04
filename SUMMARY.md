@@ -7,7 +7,7 @@
 
 * [FAQ](basics/faq.md)
 * [Staking](basics/staking.md)
-* [Bonding](basics/bonding.md)
+* [Bonding (4, 4)](basics/bonding.md)
 
 ## Tutorial
 
