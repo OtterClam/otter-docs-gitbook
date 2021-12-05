@@ -2,7 +2,7 @@
 
 ## What is OtterClam?
 
-[**OtterClam**](https://www.otterclam.finance) is the first decentralized reserve memecoin protocol on **Polygon Network** based on the **CLAM** token. Each **CLAM** token is backed by a basket of assets (e.g. MAI/QUICK/MATIC) in the Otter's treasury, giving it an intrinsic value that it cannot fall below. OtterClam also introduces economic and game-theoretic dynamics into the market through staking and bonding.&#x20;
+[**OtterClam**](https://www.otterclam.finance) is the first decentralized reserve memecoin protocol on **Polygon Network** based on the **CLAM** token. Each **CLAM** token is backed by a basket of assets (e.g. MAI/QUICK/MATIC) in the Otter's treasury, giving it an intrinsic value that it cannot fall below. OtterClam also introduces economic and game-theoretic dynamics into the market through staking and bonding.
 
 OtterClam is a fork of [OlympusDAO](https://www.olympusdao.finance) on Polygon network.
 
@@ -14,7 +14,7 @@ Our goal is to build a policy-controlled memecoin system, in which the behavior 
 
 ## How do I join the Otter family?
 
-There are two main ways for otter lovers: [staking](basics/staking.md) and [bonding](basics/bonding.md). Stakers stake their **CLAM** tokens to otters in return for more **CLAM** tokens, while bonders provide LP or MAI tokens in exchange for discounted **CLAM** tokens after a fixed vesting period.
+There are two main ways for otter lovers: [staking](basics/staking.md) and [bonding](basics/bonding/). Stakers stake their **CLAM** tokens to otters in return for more **CLAM** tokens, while bonders provide LP or MAI tokens in exchange for discounted **CLAM** tokens after a fixed vesting period.
 
 ## How can I benefit from OtterClam?
 

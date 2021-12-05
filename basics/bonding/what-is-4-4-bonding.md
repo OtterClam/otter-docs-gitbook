@@ -1,6 +1,6 @@
-# What is 4,4 Bonding
+# What is (4,4) Bonding
 
-#### Note: If you are unsure of what "1,1" "3,3" and "4,4" mean, check our [game-theory-x-x.md](game-theory-x-x.md "mention")
+#### Note: If you are unsure of what "1,1" "3,3" and "4,4" mean, check our [game-theory-x-x.md](../game-theory-x-x.md "mention")
 
 ### 4,4 Bonding
 
@@ -10,19 +10,16 @@
 * Complete Value of 4,4 bond is staked, not separated into epochs
 * Your rewards compound as they are vested, meaning you don't have to stake them, after claiming them
 * Bonds have a vesting period of 5 days and you can claim at the end.
-*   The percentage shown in sidebar is ROI (Return of Investment) after 5 days and not discount.
-
-    * Breakdown of percentage is show on the [bonds](https://app.otterclam.finance/#/bonds) page
-    * In below example ROI is 12.28 = 0.70% (discount) + 11.58% (Rebase rewards on complete amount)
-    * ![](https://i.imgur.com/UMVZzZa.jpeg)
-
-
+* The percentage shown in sidebar is ROI (Return of Investment) after 5 days and not discount.
+  * Breakdown of percentage is show on the [bonds](https://app.otterclam.finance/#/bonds) page
+  * In below example ROI is 12.28 = 0.70% (discount) + 11.58% (Rebase rewards on complete amount)
+  * ![](https://i.imgur.com/UMVZzZa.jpeg)
 
 > Note: As you get sClam, you get rebase rewards even if you don't claim them.
 >
 > Claiming just moves sCalm from contract to your total staked amount.
 
-### Can I purchase multiple bonds ?&#x20;
+### Can I purchase multiple bonds ?
 
 Yes, but your vesting period will reset to 5 days after the most recent purchase.
 
