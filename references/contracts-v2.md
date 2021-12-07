@@ -17,13 +17,8 @@
 * MAI-CLAM (4,4): [0xda0d7c3d751d00a1ec1c495eF7Cf3db1a202B0B9](https://polygonscan.com/address/0xda0d7c3d751d00a1ec1c495eF7Cf3db1a202B0B9)
 * FRAX (4,4) v2: [0x9e1430EB3b56e8953a342BFBBdD2DDC3b6E84d9D](https://polygonscan.com/address/0x9e1430EB3b56e8953a342BFBBdD2DDC3b6E84d9D)
 * FRAX-CLAM (4,4): [0xd99c8aF24c5E7fd6E292b1682Ec0f0cB3535e002](https://polygonscan.com/address/0xd99c8aF24c5E7fd6E292b1682Ec0f0cB3535e002)
+* MATIC (4,4): [0xf57Fb38f57D2a4Fca0ee074A3F3b4e5C570959E4](https://polygonscan.com/address/0xf57Fb38f57D2a4Fca0ee074A3F3b4e5C570959E4)
 * Bond Calculator: [0x651125e097d7e691f3df5f9e5224f0181e3a4a0e](https://polygonscan.com/address/0x651125e097d7e691f3df5f9e5224f0181e3a4a0e)​
-
-### Deprecated Bonds
-
-* MAI bond: [0x603A74Fd527b85E0A1e205517c1f24aC71f5C263](https://polygonscan.com/address/0x603A74Fd527b85E0A1e205517c1f24aC71f5C263)
-* MAI/CLAM LP bond: [0x706587BD39322A6a78ddD5491cDbb783F8FD983E](https://polygonscan.com/address/0x706587BD39322A6a78ddD5491cDbb783F8FD983E)​
-* FRAX (4,4) bond​ v1: [0x5Fa0FBDb07Fe9647B43426dcc79da984f0327E4a](https://polygonscan.com/address/0x5Fa0FBDb07Fe9647B43426dcc79da984f0327E4a)
 
 ### LP <a href="#quickswap-lp" id="quickswap-lp"></a>
 
@@ -37,3 +32,10 @@
 ### PClam
 
 * pCLAM: [0xe26437f684611364498c57b121B3C0C91e0FBA65](https://polygonscan.com/address/0xe26437f684611364498c57b121B3C0C91e0FBA65)
+
+### Deprecated Bonds
+
+* MAI bond: [0x603A74Fd527b85E0A1e205517c1f24aC71f5C263](https://polygonscan.com/address/0x603A74Fd527b85E0A1e205517c1f24aC71f5C263)
+* MAI/CLAM LP bond: [0x706587BD39322A6a78ddD5491cDbb783F8FD983E](https://polygonscan.com/address/0x706587BD39322A6a78ddD5491cDbb783F8FD983E)​
+* FRAX (4,4) bond​ v1: [0x5Fa0FBDb07Fe9647B43426dcc79da984f0327E4a](https://polygonscan.com/address/0x5Fa0FBDb07Fe9647B43426dcc79da984f0327E4a)
+
