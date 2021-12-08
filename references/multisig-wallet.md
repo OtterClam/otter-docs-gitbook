@@ -10,10 +10,11 @@ Below is the OtterClam gnosis safe, where the latest version represents the curr
 
 * Otter King(dev): 0x63B0fB7FE68342aFad3D63eF743DE4A74CDF462B
 * Dang(dev): 0x1BE4BbAF1b232F5180F2d3306269F8E446bC0A4f
+* d0c0q(dev): 0x016bC76CD93b6e2E026bA3130B1DC30098Ebfe9E
 * Joust(mod): 0x67dE004c376Be6a9c44f5EF9d0B4BB35165eA4F9
-* Church(mod): 0xC01e6A8df21c7Ae757b0bB8bba95200e8Ec6C518
+* Timeless Jack(mod): 0x68DDacDB34739e924F49185F3bC9ADf97159EC60
 * QiDao: 0xc96ea79A32Ec5B74A25b15Bb331a03BcFF424d6D
 
 ### Policy
 
-The DAO contract is guarded by a 4 of 5 multisig policy. Requiring any transaction to make changes to the DAO must be approved by at least 4 stakeholders of the total 5 stakeholders within the multisig policy.
+The DAO contract is guarded by a 4 of 6 multi-sig policy. Requiring any transaction to make changes to the DAO must be approved by at least 4 stakeholders of the total 6 stakeholders within the multisig policy.
