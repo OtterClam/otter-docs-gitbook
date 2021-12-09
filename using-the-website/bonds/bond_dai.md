@@ -1,16 +1,16 @@
 # MAI Bond
 
-MAI bond was introduced since OtterClam launch. It allows you to trade [MAI](https://www.coingecko.com/en/coins/dai) in exchange for discounted CLAM on OtterClam.
+We introduced a MAI bond when OtterClam launched. It allows you to trade [MAI](https://www.coingecko.com/en/coins/mimatic) in exchange for discounted CLAM on OtterClam.
 
 ## How to Bond
 
 1. Make sure you have MAI in your wallet. For example, you can [go to QuickSwap to swap for MAI](https://app.sushi.com/swap?inputCurrency=&outputCurrency=0x6b175474e89094c44da98b954eedeac495271d0f) if you don't have any.
 
-2. Head to the [MAI Bond page of the OtterClam website](https://app.otterclam.finance/#/bonds/dai). There are two tabs: "Bond" and "Redeem". Make sure "Bond" is selected.
+2. Head to the [MAI Bond page of the OtterClam website](https://app.otterclam.finance/#/bonds/mai). There are two tabs: "Bond" and "Redeem". Make sure to select "Bond".
 
-3. Type in the amount of MAI you would like to bond. Make sure you are not trying to bond more than is allowed. The **Max You Can Buy** field below shows the maximum amount of CLAM you can purchase.
+3. Type in the amount of MAI you would like to bond. Make sure you are not trying to bond more than is allowed. The **Max You Can Buy** field below shows the largest amount of CLAM you can buy.
 
-![You can only purchase up to a certain amount of CLAM](../../.gitbook/assets/max_you_can_buy.png)
+![You can only buy up to a certain amount of CLAM](../../.gitbook/assets/max_you_can_buy.png)
 
 4. If this is your first purchase, you need to approve the OtterClam contract to spend your MAI. Click "Approve" and sign the transaction.
 
