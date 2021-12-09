@@ -4,7 +4,7 @@
 
 OtterClam is an OHM fork on the Polygon network that aims to become **A Reservation Currency Memecoin**. Polygon network is an ethereum layer 2 blockchain. To start interaction with Polygon, you need to get some $MATIC first.
 
-In this tutorial, we will show you how to purchase CLAM from exchanges or other chains.
+In this tutorial, we will show you how to buy CLAM from exchanges or other chains.
 
 ### From Exchanges <a href="from-exchanges" id="from-exchanges"></a>
 
