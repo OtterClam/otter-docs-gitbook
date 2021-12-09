@@ -59,9 +59,7 @@ CLAM supply does not have a hard cap. Its supply increases when:
 * CLAM is minted and distributed to the stakers.
 * CLAM is minted for the bonder. This happens whenever someone purchases a bond.
 * CLAM is minted for the DAO. This happens whenever someone purchases a bond. The DAO gets the same number of CLAM as the bonder.
-* CLAM is minted for the team, investors, advisors, or the DAO. This happens whenever
-
-  the aforementioned party exercises their pCLAM.
+* CLAM is minted for the team, investors, advisors, or the DAO. This happens whenever the aforementioned party exercises their pCLAM ([an explaination of pCLAM can be found here](https://otterclam.medium.com/introducing-otterclam-finance-a-reservation-currency-memecoin-fa6676042092)).
 
 $$
 CLAM_{stakers} = CLAM_{totalSupply} * rewardRate
