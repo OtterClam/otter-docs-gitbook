@@ -10,9 +10,9 @@ are for instance the
 individual payout. Below are listed MAI bond contracts by version, where the
 latest version represents the currently active contract.
 
-* V1 [0xa64E...2A3c](https://etherscan.io/address/0xa64ED1b66Cb2838Ef2A198D8345c0ce6967A2A3c)
+* v2 [0x779C...d4d0](https://polygonscan.com/address/0x779CB532e289CbaA3d0692Ae989C63C2B4fBd4d0)
 
-## CLAM / MAI LP Bond
+## MAI-CLAM LP Bond
 
-* V1 [0xd270...ff29](https://etherscan.io/address/0xd27001d1aaed5f002c722ad729de88a91239ff29)
+* v2 [0xda0d...B0B9](https://polygonscan.com/address/0xda0d7c3d751d00a1ec1c495eF7Cf3db1a202B0B9)
 
