@@ -9,4 +9,4 @@
 * This allows the Protocol to build reserves of stablecoins which help grow the project and allow us to offer attractive APYs.
 * In return, Bonders will receive a linearly vested supply of discounted Clam tokens which can be redeemed and staked or traded.
 
-> Note : You **DO NOT** get the LP or Stable coins after 5 days
+> Note: You **DO NOT** get the LP or Stable coins after 5 days
