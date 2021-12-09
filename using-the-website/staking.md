@@ -5,7 +5,7 @@ Staking allows you to earn CLAM passively via auto-compounding. By staking your 
 ## How to Buy CLAM
 
 {% hint style="warning" %}
-Purchase CLAM on: [Quickswap](https://quickswap.exchange). Make sure to **check the slippage first** before buying CLAM, as some venue offers worse rate than the others due to low liquidity.
+Purchase CLAM on: [Quickswap](https://quickswap.exchange). Make sure to **check the slippage first** before buying CLAM, as some venue offers a worse rate than others due to low liquidity.
 {% endhint %}
 
 1. Go to [this Sushiswap swap page](https://app.sushi.com/swap?outputCurrency=0x383518188c0c6d7730d91b2c03a03c837814a899). We use Sushiswap as an example here. It is recommended to compare the exchange rate across different DEXes to ensure you are getting the best price.
@@ -13,7 +13,7 @@ Purchase CLAM on: [Quickswap](https://quickswap.exchange). Make sure to **check 
 
 ![Paste CLAM contract address](../.gitbook/assets/ohm\_contract.png)
 
-1. You can select any input currency based on your available wallet balance. It is recommended to use MAI as the input currency to minimize the slippage.
+1. You can select any input currency based on your available wallet balance. It is recommended to use MAI as the input currency to minimize slippage.
 
 ![Make sure the output currency is CLAM](../.gitbook/assets/buy\_ohm.png)
 
@@ -49,14 +49,14 @@ _Note: The "Approve" transaction is only needed when staking/unstaking for the f
 
 **TVL** measures the dollar amount of all the staked CLAM in OtterClam.
 
-**Current Index** allows you to track your gain from staking. The index started from 1 at epoch 0, and increases every epoch. If you staked at genesis (epoch 0) and never unstaked any CLAM, your balance today would be X times greater, where X is the current index. You can use the index to track your position by marking down the index number when you stake and unstake. You divide the index number when you unstake by the index number when you stake to get the ratio by which your sCLAM balance has increased.
+**Current Index** allows you to track your gain from staking. The index started from 1 at epoch 0 and increases every epoch. If you staked at genesis (epoch 0) and never unstaked any CLAM, your balance today would be X times greater, where X is the current index. You can use the index to track your position by marking down the index number when you stake and unstake. You divide the index number when you unstake by the index number when you stake to get the ratio by which your sCLAM balance has increased.
 
-**Your Balance** tells you how many unstaked CLAM are in your wallet. This is the maximum amount that you can stake.
+**Your Balance** tells you how many unstaked CLAMs are in your wallet. This is the maximum amount that you can stake.
 
-**Your Staked Balance** tells you how many staked CLAM are in your wallet. This is the maximum amount that you can unstake.
+**Your Staked Balance** tells you how many staked CLAMs are in your wallet. This is the maximum amount that you can unstake.
 
 **Next Harvest** tells you the remaining time until the next harvest.
 
 **Reward Yield** tells you how much your sCLAM balance will increase when the next epoch begins. For example, if you stake 100 CLAM and the upcoming harvest is 0.5427%, your sCLAM balance would increase from 100 to 100.5427.
 
-**ROI (5-Day Rate)** estimates how much your sCLAM balance will increase after 5 days, if the reward yield stays the same during this period. For example, if you stake 100 CLAM and the rate is 8.4577%, your sCLAM balance would increase from 100 to 108.4577 after 5 days.
+**ROI (5-Day Rate)** estimates how much your sCLAM balance will increase after 5 days if the reward yield stays the same during this period. For example, if you stake 100 CLAM and the rate is 8.4577%, your sCLAM balance would increase from 100 to 108.4577 after 5 days.
