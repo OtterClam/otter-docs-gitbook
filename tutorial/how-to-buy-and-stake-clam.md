@@ -2,9 +2,9 @@
 
 ## What is CLAM? <a href="what-is-clam" id="what-is-clam"></a>
 
-OtterClam is an OHM fork on Polygon network aims to become **A Reservation Currency Memecoin**. Polygon netowrk is a ethereum layer 2 blockchain. To start interaction with Polygon, you need to get some $MATIC first.
+OtterClam is an OHM fork on the Polygon network that aims to become **A Reservation Currency Memecoin**. Polygon network is an ethereum layer 2 blockchain. To start interaction with Polygon, you need to get some $MATIC first.
 
-In this tutorial, we will show you how to purchase CLAM from exchanges or from other chains.
+In this tutorial, we will show you how to purchase CLAM from exchanges or other chains.
 
 ### From Exchanges <a href="from-exchanges" id="from-exchanges"></a>
 
@@ -29,8 +29,8 @@ You can find more CEXs on here [https://awesomepolygon.com/cex/](https://awesome
 
 4. Add & switch network to Polygon in metamask\
    ![](https://i.imgur.com/6lRShrv.png)
-5. Withdraw MATIC from the exchange you use to your wallet. The wallet address should be the same address as Ethereum one.
-6. Swap some $MATIC to **$CLAM**. Attention: Don’t swap all! You should save some $MATIC for future gas fee, 0.1\~1 $MATIC is enough for plenty of transactions.
+5. Withdraw MATIC from the exchange you use for your wallet. The wallet address should be the same as the one you have for Ethereum.
+6. Swap some $MATIC to **$CLAM**. Attention: Don’t swap all! You should save some $MATIC for future gas fees, 0.1\~1 $MATIC is enough for plenty of transactions.
 7. Go to OtterClam webapp [https://app.otterclam.finance/#/stake](https://app.otterclam.finance/#/stake)
 8. Approve & Stake all your **$CLAM**s.&#x20;
 9. Sit and chill.\
@@ -43,9 +43,9 @@ _Note: Your fresh stake CLAM will be in warmup for 2 epochs. **$CLAM** in warmup
 
 ### Trading for CLAM from other chains <a href="trading-for-clam-from-other-chains" id="trading-for-clam-from-other-chains"></a>
 
-1. Follow the above steps to add Polygon network to your metamask.
-2. Get some $MATIC as gas fee from matic faucet [https://matic.supply/](https://matic.supply) or [https://macncheese.finance/matic-polygon-mainnet-faucet.php](https://macncheese.finance/matic-polygon-mainnet-faucet.php)
-3. Bridge your assets to Polygon with follow bridges.
+1. Follow the above steps to add the Polygon network to your metamask.
+2. Get some $MATIC as for gas fees from the Matic faucet [https://matic.supply/](https://matic.supply) or [https://macncheese.finance/matic-polygon-mainnet-faucet.php](https://macncheese.finance/matic-polygon-mainnet-faucet.php)
+3. Bridge your assets to Polygon with one of the following bridges:
 
 #### Ethereum <a href="ethereum" id="ethereum"></a>
 
