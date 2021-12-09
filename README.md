@@ -4,7 +4,7 @@
 
 [**OtterClam**](https://www.otterclam.finance) is the first decentralized reserve memecoin protocol on **Polygon Network** based on the **CLAM** token. Each **CLAM** token is backed by a basket of assets (e.g. MAI/QUICK/MATIC) in the Otter's treasury, giving it an intrinsic value that it cannot fall below. OtterClam also introduces economic and game-theoretic dynamics into the market through staking and bonding.
 
-OtterClam is a fork of [OlympusDAO](https://www.olympusdao.finance) on Polygon network.
+OtterClam is a fork of [OlympusDAO](https://www.olympusdao.finance) on the Polygon network.
 
 ## What is the point of OtterClam?
 
@@ -20,7 +20,7 @@ There are two main ways for otter lovers: [staking](basics/staking.md) and [bond
 
 The main benefit for stakers comes from supply growth. The otter harvests new **CLAM** tokens from the treasury, the majority of which are distributed to the stakers thanks for the **CLAM** tokens they offered. Thus, the gain for stakers will come from their auto-compounding balances, though price exposure remains an important consideration. That is, if the increase in token balance outpaces the potential drop in price (due to inflation), stakers would make a profit.
 
-The main benefit for bonders comes from price consistency. Bonders commit a capital upfront and are promised a fixed return at a set point in time; that return is in **CLAM** and thus the bonder's profit would depend on **CLAM** price when the bond matures. Bonders benefit from a rising or static **CLAM** price.
+The main benefit for bonders comes from price consistency. Bonders commit capital upfront and are promised a fixed return at a set point in time; that return is in **CLAM** and thus the bonder's profit would depend on **CLAM** price when the bond matures. Bonders benefit from a rising or static **CLAM** price.
 
 ## Who created OtterClam?
 
