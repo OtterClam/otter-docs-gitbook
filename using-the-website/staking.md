@@ -5,7 +5,7 @@ Staking allows you to passively earn CLAM via auto-compounding. By staking your 
 ## How to Buy CLAM
 
 {% hint style="warning" %}
-Buy CLAM on: [Quickswap](https://quickswap.exchange). Make sure to **check the slippage first** before buying CLAM, as some venues offer a worse rate than others due to low liquidity.
+Buy CLAM on: [Quickswap](https://quickswap.exchange/#/swap?outputCurrency=0xC250e9987A032ACAC293d838726C511E6E1C029d). Make sure to **check the slippage first** before buying CLAM, as some venues offer a worse rate than others due to low liquidity.
 {% endhint %}
 
 1. Go to [this Sushiswap swap page](https://app.sushi.com/swap?outputCurrency=0x383518188c0c6d7730d91b2c03a03c837814a899). We use Sushiswap as an example here. We recommend that you should compare the exchange rate across different DEXes to ensure you are getting the best price.
@@ -27,14 +27,14 @@ The "Approve" transaction is only needed when you swap CLAM for the first time. 
 
 ## How to Stake
 
-1. Go to the [Stake page of the OtterClam website](https://app.otterclam.finance/#/). Select the "Stake" tab.
+1. Go to the [Stake page of the OtterClam website](https://app.otterclam.finance/#/stake). Select the "Stake" tab.
 2. Enter the amount of CLAM that you would like to stake in the input field. If you would like to stake all your CLAM, press the "Max" button. This will populate the input field with all your available CLAM balance.
 3. Click "Approve" and sign the transaction.
 4. After the "Approve" transaction has been processed successfully, click "Stake" and sign the transaction. Voila, you have staked your CLAM!
 
 ## How to Unstake
 
-1. Go to the [Stake page of the OtterClam website](https://app.otterclam.finance/#/). Select the "Unstake" tab.
+1. Go to the [Stake page of the OtterClam website](https://app.otterclam.finance/#/stake). Select the "Unstake" tab.
 2. Enter the amount of sCLAM that you would like to unstake in the input field. If you would like to unstake all your sCLAM, press the "Max" button. This will populate the input field with all your available sCLAM balance. 
 3. Click "Approve" and sign the transaction.
 4. After the "Approve" transaction has been processed successfully, click "Unstake" and sign the transaction.
