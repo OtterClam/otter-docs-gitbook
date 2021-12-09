@@ -8,15 +8,15 @@ description: Description of game theory and mechanics
 
 * Players are most likely to stake when they anticipate an expansion in supply and/or price.
 * Players are most likely to sell when they anticipate a contraction in supply and/or price.&#x20;
-* Players are most likely to bond when they do not have a strong directional bias but don’t anticipate significant downside.
+* Players are most likely to bond when they do not have a strong directional bias but don’t anticipate a significant downside.
 * Game Theory is the study of mathematical models which can be used to determine the advantage or disadvantage of specific choices in a given scenario.&#x20;
 
 #### Explanation
 
-* 4,4 and 3,3 are some of the labels with give to certain actions with regards to Game Theory.
+* 4,4 and 3,3 are some of the labels given to certain actions with regards to Game Theory.
 * In the case of Clams, we use it to describe the benefits and drawbacks of the various ways in which users can interact with the Protocol.&#x20;
-* Below is a the OtterClams Game Theory Matrix. It is a grid which you can use to determine the benefit of users taking actions within the Protocol.&#x20;
-* The columns indicate your actions while the rows indicate the actions of others. Each action is assigned a value which translates to outcome values on the table.&#x20;
+* Below is the OtterClams Game Theory Matrix. It is a grid that you can use to determine the benefit of users taking actions within the Protocol.&#x20;
+* The columns indicate your actions while the rows indicate the actions of others. Each action is assigned a value that translates to outcome values on the table.&#x20;
 *   For example:
 
     * if both parties stake, the outcome value is 3 + 3 = 6. This is considered a highly positive outcome for the user and the Protocol.&#x20;
@@ -27,3 +27,4 @@ description: Description of game theory and mechanics
 
 
 ![](../.gitbook/assets/4-4-matrix.png)
+
