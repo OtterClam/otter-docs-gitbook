@@ -14,7 +14,7 @@ You receive sCLAM when you stake CLAM at a 1:1 ratio. Adding this address to you
 
 ## pCLAM
 
-pCLAM, previously known as pOLY, is the presale token of OtterClam. It was used to raise funds from private investors to bootstrap OtterClam. You can read more about pCLAM in this [Medium article](https://olympusdao.medium.com/what-is-poh-16b2c38a6cd6). Below are listed pCLAM contracts by version, where the latest version represents the currently active contract.
+pCLAM, previously known as pOLY, is the presale token of OtterClam. It was used to raise funds from private investors to bootstrap OtterClam. You can read more about pCLAM in this [Medium article](https://otterclam.medium.com/introducing-otterclam-finance-a-reservation-currency-memecoin-fa6676042092). Below are listed pCLAM contracts by version, where the latest version represents the currently active contract.
 
 * v1 [0x3699...c800](https://etherscan.io/token/0x36994486c6e97c170065899d8659a28d7371c800)
 
