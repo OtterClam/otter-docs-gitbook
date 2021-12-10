@@ -18,7 +18,7 @@ The following are the initial policy states:
     It is set to 86400 \* 5 seconds = five days for all bond types.
 *   **CLAM distribution**
 
-    Every time someone purchases a bond, the proceed will go to the [OtterClam treasury](https://docs.otterclam.finance/references/contracts#treasury). A corresponding amount of CLAM will be minted and distributed to three parties:
+    Every time someone purchases a bond, the proceeds will go to the [OtterClam treasury](https://docs.otterclam.finance/references/contracts#treasury). A corresponding amount of CLAM will be minted and distributed to three parties:
 
     *   Bonder
 
@@ -29,3 +29,4 @@ The following are the initial policy states:
     *   Stakers
 
         After accounting for the CLAM distributed to the bonder and the DAO, the rest will be distributed among all stakers in the protocol.
+

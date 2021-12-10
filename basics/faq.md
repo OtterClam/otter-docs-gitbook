@@ -2,19 +2,19 @@
 
 ## Why do we need OtterClam in the first place?
 
-Dollar-pegged stablecoins have become an essential part of crypto due to their lack of volatility as compared to tokens such as Bitcoin and Ether. Users are comfortable with transacting using stablecoins knowing that they hold the same amount of purchasing power today vs. tomorrow. But this is a fallacy. The dollar is controlled by the US government and the Federal Reserve. This means a depreciation of dollar also means a depreciation of these stablecoins.
+Dollar-pegged stablecoins have become an essential part of crypto due to their lack of volatility as compared to tokens such as Bitcoin and Ether. Users are comfortable with transacting using stablecoins knowing that they hold the same amount of purchasing power today vs. tomorrow. But this is a fallacy. The dollar is controlled by the US government and the Federal Reserve. This means a depreciation of the dollar also means a depreciation of these stablecoins.
 
-OtterClam aims to solve this by creating a free-floating reserve currency, **CLAM**, that is backed by a basket of assets. By focusing on supply growth rather than price appreciation, OtterClam hopes that **CLAM** can function as a currency that is able to hold its purchasing power regardless of market volatility.
+OtterClam aims to solve this by creating a free-floating reserve currency, **CLAM**, which is backed by a basket of assets. By focusing on supply growth rather than price appreciation, OtterClam hopes that **CLAM** can function as a currency that can hold its purchasing power regardless of market volatility.
 
-As one of the oldest currency human used, we would like to present the first store of value memecoin - **CLAM**.
+As one of the oldest currencies humans used, we would like to present the first store of value memecoin - **CLAM**.
 
 ## Is CLAM a stable coin?
 
-No, **CLAM** is not a stable coin. Rather, **CLAM** aspires to become an algorithmic reserve memecoin backed by other decentralized assets. Similar to the idea of the gold standard, **CLAM** provides free floating value its users can always fall back on, simply because of the fractional treasury reserves CLAM draws its intrinsic value from.
+No, **CLAM** is not a stable coin. Rather, **CLAM** aspires to become an algorithmic reserve memecoin backed by other decentralized assets. Similar to the idea of the gold standard, **CLAM** provides free-floating value its users can always fall back on, simply because of the fractional treasury reserves CLAM draws its intrinsic value from.
 
 ## CLAM is backed, not pegged.
 
-Each **CLAM** is backed by 1 MAI, not pegged to it. Because the treasury backs every **CLAM** with at least 1 MAI, the protocol would buy back and burn **CLAM** when it trades below 1 MAI. This has the effect of pushing **CLAM** price back up to 1 MAI. **CLAM** could always trade above 1 MAI because there is no upper limit imposed by the protocol. Think pegged == 1, while backed >= 1.
+Each **CLAM** is backed by 1 MAI, not pegged to it. Because the treasury backs every **CLAM** with at least 1 MAI, the protocol would buy back and burn **CLAM** when it trades below 1 MAI. This has the effect of pushing the **CLAM** price back up to 1 MAI. **CLAM** could always trade above 1 MAI because there is no upper limit imposed by the protocol. Think pegged == 1, while backed >= 1.
 
 You might say that the **CLAM** floor price or intrinsic value is 1 MAI. We believe that the actual price will always be 1 MAI + premium, but in the end that is up to the market to decide.
 
@@ -61,7 +61,7 @@ When you buy and stake **CLAM**, you capture a percentage of the supply (market 
 
 ## What is a harvest?
 
-Harvest is a mechanism by which your staked **CLAM** balance increases automatically. When new **CLAM** are minted by the protocol, a large portion of it goes to the stakers. Because stakers only see staked **CLAM** balance instead of **CLAM**, the protocol utilizes the harvest mechanism to increase the staked **CLAM** balance so that 1 staked CLAM is always redeemable for 1 **CLAM**.
+Harvest is a mechanism by which your staked **CLAM** balance increases automatically. When new **CLAM** are minted by the protocol, a large portion of it goes to the stakers. Because stakers only see staked **CLAM** balance instead of **CLAM**, the protocol utilizes the harvesting mechanism to increase the staked **CLAM** balance so that 1 staked CLAM is always redeemable for 1 **CLAM**.
 
 ## What is reward yield?
 
@@ -69,7 +69,7 @@ Reward yield is the percentage by which your staked **CLAM** balance increases o
 
 ## What is APY?
 
-APY stands for annual percentage yield. It measures the real rate of return on your principal by taking into account the effect of compounding interest. In the case of OtterClam, your staked **CLAM** represents your principal, and the compound interest is added periodically on every epoch (8 hours) thanks to the harvest mechanism.
+APY stands for annual percentage yield. It measures the real rate of return on your principal by taking into account the effect of compounding interest. In the case of OtterClam, your staked **CLAM** represents your principal, and the compound interest is added periodically on every epoch (8 hours) thanks to the harvesting mechanism.
 
 One interesting fact about APY is that your balance will grow not linearly but exponentially over time! Assuming a daily compound interest of 2%, if you start with a balance of 1 **CLAM** on day 1, after a year, your balance will grow to about 1377. That is a lot!
 
@@ -83,7 +83,7 @@ $$
 APY = ( 1 + rewardYield )^{1095}
 $$
 
-It raises to the power of 1095 because a harvest happens 3 times daily. Consider there are 365 days in a year, this would give a harvest frequency of 365 \* 3 = 1095.
+It raises to the power of 1095 because a harvest happens 3 times daily. Consider there are 365 days in a year, this would give a harvesting frequency of 365 \* 3 = 1095.
 
 Reward yield is determined by the following equation:
 
@@ -91,7 +91,7 @@ $$
 rewardYield = CLAM_{distributed} / CLAM_{totalStaked}
 $$
 
-The number of CLAM distributed to the staking contract is calculated from CLAM total supply using the following equation:
+The number of CLAMs distributed to the staking contract is calculated from CLAM total supply using the following equation:
 
 $$
 CLAM_{distributed} = CLAM_{totalSupply} \times rewardRate
@@ -105,7 +105,7 @@ As illustrated above, your CLAM balance will grow exponentially over time thanks
 
 ## What will be CLAM's intrinsic value in the future?
 
-There is no clear answer for this, but the intrinsic value can be determined by the treasury performance. For example, if the treasury could guarantee to back every **CLAM** with 100 MAI, the intrinsic value will be 100 MAI. It can also be decided by the DAO. For example, if the DAO decides to raise the price floor of **CLAM**, its intrinsic value will rise accordingly.
+There is no clear answer for this, but the intrinsic value can be determined by treasury performance. For example, if the treasury could guarantee to back every **CLAM** with 100 MAI, the intrinsic value will be 100 MAI. It can also be decided by the DAO. For example, if the DAO decides to raise the price floor of **CLAM**, its intrinsic value will rise accordingly.
 
 ## How does the protocol manage to maintain the high staking APY?
 
