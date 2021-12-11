@@ -14,7 +14,7 @@ OtterClam is aim to become **A Reservation Currency Memecoin**. In a short term,
 * [x] Web app - Graph on Dashboard
 * [x] MATIC Bond
 * [ ] MATIC / CLAM Bond
-* [ ] Get audited done (12/1-12/10)
+* [ ] Get audited done (12/1-12/15)
 * [ ] Wrapped sCLAM aka PEARL
 * [ ] A new bond discount system with NFT
 * [ ] NFT Airdrop to stakers (12/24)
