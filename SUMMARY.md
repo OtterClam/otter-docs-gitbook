@@ -24,6 +24,7 @@
 
 ## References
 
+* [Audits](references/audits.md)
 * [Contracts v2](references/contracts-v2.md)
 * [Contracts v1](references/contracts.md)
 * [Multisig Wallet](references/multisig-wallet.md)
