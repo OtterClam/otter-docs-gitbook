@@ -9,7 +9,8 @@
 * Staking Helper: [0x76B38319483b570B4BCFeD2D35d191d3c9E01691](https://polygonscan.com/address/0x76B38319483b570B4BCFeD2D35d191d3c9E01691)​
 * Staking Warm Up: [0x8b2943667957ec2ce851fd449b7a870f253ca1e7](https://polygonscan.com/address/0x8b2943667957ec2ce851fd449b7a870f253ca1e7)​
 * Staking Distributor: [0x0Dd015889df6F50d39e9D7A52711D0B86E43FC62](https://polygonscan.com/address/0x0Dd015889df6F50d39e9D7A52711D0B86E43FC62)​
-* DAO: [0x929A27c46041196e1a49C7B459d63eC9A20cd879](https://polygonscan.com/address/0x929A27c46041196e1a49C7B459d63eC9A20cd879)​
+* DAO: [0x929A27c46041196e1a49C7B459d63eC9A20cd879](https://polygonscan.com/address/0x929A27c46041196e1a49C7B459d63eC9A20cd879)
+* Circulating Supply: [0x99ee91871cf39A44E3Fc842541274d7eA05AE4b3](https://polygonscan.com/address/0x99ee91871cf39A44E3Fc842541274d7eA05AE4b3)​
 
 ### **Bonds** <a href="#bonds" id="bonds"></a>
 
