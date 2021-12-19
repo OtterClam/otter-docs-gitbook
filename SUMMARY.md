@@ -14,6 +14,7 @@
 
 ## Tutorial
 
+* [Polygon and Metamask](tutorial/polygon-and-metamask.md)
 * [How to buy and stake CLAM](tutorial/how-to-buy-and-stake-clam.md)
 
 ## Protocol Internals
