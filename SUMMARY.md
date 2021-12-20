@@ -10,6 +10,7 @@
 * [Bonding](basics/bonding/README.md)
   * [What is (1,1) Bonding](basics/bonding/what-is-1-1-bonding.md)
   * [What is (4,4) Bonding](basics/bonding/what-is-4-4-bonding.md)
+* [Pearl](basics/pearl.md)
 * [Game Theory](basics/game-theory-x-x.md)
 
 ## Tutorial
