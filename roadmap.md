@@ -16,8 +16,9 @@ OtterClam is aim to become **A Reservation Currency Memecoin**. In a short term,
 * [x] MATIC / CLAM Bond
 * [x] Get audited done (12/1-12/15)
 * [x] Wrapped sCLAM aka PEARL
-* [ ] A new bond discount system with NFT
+* [ ] PEARL Vault
 * [ ] NFT Airdrop to stakers (12/24)
+* [ ] A new bond discount system with NFT
 * [ ] (9,9) leverage for sCLAM
 * [ ] Zap to LP bond
 
@@ -25,12 +26,11 @@ OtterClam is aim to become **A Reservation Currency Memecoin**. In a short term,
 
 * [x] Setup Discord DAO Server
 * [x] Snapshot vote [https://snapshot.org/#/otterclam.eth](https://snapshot.org/#/otterclam.eth)
-* [ ] DAO forum
 
 ### 2022Q1 <a href="#2022q1" id="2022q1"></a>
 
 * [ ] OtterClam 10k NFT drop (mint with CLAM!)
-* [ ] Otter Kingdom?
+* [ ] Otter Kingdom
 
 ### 2022Q2 <a href="#2022q2" id="2022q2"></a>
 
