@@ -27,7 +27,7 @@ OtterClam is aim to become **A Reservation Currency Memecoin**. In a short term,
 
 * [ ] PEARL Vault
 * [ ] A new bond discount system with NFT
-* [ ] (9,9) leverage for sCLAM
+* [ ] (9,9) leverage for PEARL
 * [ ] Zap to LP bond
 * [ ] OtterClam 10k NFT drop (mint with CLAM!)
 * [ ] Otter Kingdom
