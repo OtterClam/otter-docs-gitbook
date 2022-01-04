@@ -12,7 +12,7 @@ Below is the OtterClam gnosis safe, where the latest version represents the curr
 * Dang(dev): 0x1BE4BbAF1b232F5180F2d3306269F8E446bC0A4f
 * d0c0q(dev): 0x016bC76CD93b6e2E026bA3130B1DC30098Ebfe9E
 * Joust(mod): 0x67dE004c376Be6a9c44f5EF9d0B4BB35165eA4F9
-* Timeless Jack(mod): 0x68DDacDB34739e924F49185F3bC9ADf97159EC60
+* Kairos(Content Lead): 0x179e5EF1aDCF21402e5442f69C813bDa94FdCF86
 * QiDao: 0xc96ea79A32Ec5B74A25b15Bb331a03BcFF424d6D
 
 ### Policy
