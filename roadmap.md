@@ -25,7 +25,7 @@ OtterClam is aim to become **A Reservation Currency Memecoin**. In a short term,
 
 ### 2022Q1 <a href="#2022q1" id="2022q1"></a>
 
-* [ ] PEARL Vault
+* [x] Otter Lake
 * [ ] A new bond discount system with NFT
 * [ ] (9,9) leverage for PEARL
 * [ ] Zap to LP bond
