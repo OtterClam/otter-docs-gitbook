@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Roadmap](roadmap.md)
+* [Roadmap](roadmap/README.md)
+  * [2021 Q4](roadmap/2021-q4.md)
 
 ## Basics
 
