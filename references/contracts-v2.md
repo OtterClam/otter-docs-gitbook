@@ -13,7 +13,7 @@
 * DAO: [0x929A27c46041196e1a49C7B459d63eC9A20cd879](https://polygonscan.com/address/0x929A27c46041196e1a49C7B459d63eC9A20cd879)
 * Circulating Supply: [0x99ee91871cf39A44E3Fc842541274d7eA05AE4b3](https://polygonscan.com/address/0x99ee91871cf39A44E3Fc842541274d7eA05AE4b3)​
 * Otter Lake: [0xc67aBdA25D0421FE9Dc1afd64183b179A426a256](https://polygonscan.com/address/0xc67aBdA25D0421FE9Dc1afd64183b179A426a256)
-* Otter Lake Distributor: [0xeb8E5A2605a687B791f7D7034E15F96AF1114e09](https://polygonscan.com/address/0xeb8E5A2605a687B791f7D7034E15F96AF1114e09)
+* Otter Lake Distributor: [0xbB268A4b6be1bD2E676bfd46aaEA03A100324d35](https://polygonscan.com/address/0xbB268A4b6be1bD2E676bfd46aaEA03A100324d35)
 
 ### **Bonds** <a href="#bonds" id="bonds"></a>
 
