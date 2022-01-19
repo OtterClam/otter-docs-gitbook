@@ -27,6 +27,7 @@
 
 ## References
 
+* [Media & Branding Guideline](references/media-and-branding-guideline.md)
 * [Audits](references/audits.md)
 * [Contracts v2](references/contracts-v2.md)
 * [Contracts v1](references/contracts.md)
