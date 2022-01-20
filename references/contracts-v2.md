@@ -43,7 +43,7 @@
 
 ### Investment <a href="#migrator" id="migrator"></a>
 
-* LP Converter: [0xE5BdF2e0ff1D36089C2E6F0896Db1086957ca90e](https://polygonscan.com/address/0xE5BdF2e0ff1D36089C2E6F0896Db1086957ca90e)
+* MAI LP Converter: [0xE5BdF2e0ff1D36089C2E6F0896Db1086957ca90e](https://polygonscan.com/address/0xE5BdF2e0ff1D36089C2E6F0896Db1086957ca90e)
 
 ### Migrator <a href="#migrator" id="migrator"></a>
 
