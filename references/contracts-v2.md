@@ -41,6 +41,10 @@
 * SushiSwap - FRAX/CLAM2: [0x1f847e05afaf47ec54626928d0e6c235663e938f](https://polygonscan.com/address/0x1f847e05afaf47ec54626928d0e6c235663e938f)
 * QuickSwap - MATIC/CLAM2: [0x3fcc446c70489610462be9d61528c51151aca49f](https://polygonscan.com/address/0x3fcc446c70489610462be9d61528c51151aca49f)​
 
+### Investment <a href="#migrator" id="migrator"></a>
+
+* LP Converter: [0xE5BdF2e0ff1D36089C2E6F0896Db1086957ca90e](https://polygonscan.com/address/0xE5BdF2e0ff1D36089C2E6F0896Db1086957ca90e)
+
 ### Migrator <a href="#migrator" id="migrator"></a>
 
 * Migrator: [0xDaa1f5036eC158fca9E5ce791ab3e213cD1c41df](https://polygonscan.com/address/0xDaa1f5036eC158fca9E5ce791ab3e213cD1c41df)
