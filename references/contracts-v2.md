@@ -43,7 +43,7 @@
 
 ### Investment <a href="#migrator" id="migrator"></a>
 
-* LP Converter: [0x7C6da32c22825D75eeC10c166cA253bCfB0c129f](https://polygonscan.com/address/0x7C6da32c22825D75eeC10c166cA253bCfB0c129f#code)
+* LP Converter: [0x5F54c368e10196779cA40a4dFB55aD9B5532c099](https://polygonscan.com/address/0x5F54c368e10196779cA40a4dFB55aD9B5532c099)
 * QiDAO MAI/USDC Investment: [0x07DB6BFbD71E9DE0AfF3ab3eAe4CBC7B13EEF952](https://polygonscan.com/address/0x07DB6BFbD71E9DE0AfF3ab3eAe4CBC7B13EEF952)
 * QiDAO QI/WMATIC Investment: [0xC3356D852330e947144400d237563288c59F3539](https://polygonscan.com/address/0xC3356D852330e947144400d237563288c59F3539#code)
 * QuickSwap Investment: [0x4933a7e336d91d0fc48773b99ba89bef4106f7d3](https://polygonscan.com/address/0x4933a7e336d91d0fc48773b99ba89bef4106f7d3)
