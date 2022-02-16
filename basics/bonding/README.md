@@ -2,7 +2,7 @@
 
 ### 2021/11/24 Updates:
 
-We Introduce the (4,4) bond on 11/24. You can read the details on our [medium post](https://otterclam.medium.com/level-up-otters-4-4-is-here-72e11cf56270).
+We Introduced the (4,4) bond on 11/24. You can review the details in our [medium post](https://otterclam.medium.com/level-up-otters-4-4-is-here-72e11cf56270).
 
 ## What is bonding
 

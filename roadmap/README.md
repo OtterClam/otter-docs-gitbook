@@ -1,6 +1,14 @@
 # Roadmap
 
-OtterClam is aim to become **A Reservation Currency of Otter Kingdom**. In a short term, we would focus on expansion. By combining NFT and bonding system, OtterClam could become with NFT loyalties.
+![](<../.gitbook/assets/image (1).png>)
+
+
+
+2022 will be an intense year of growth and expansion for OtterClam's Otter Kingdom. Already this year, our developers have successfully implemented a unique feature allowing long-term holders to maximize reward potential through a PEARL Chest lock-up mechanism. Essentially, an NFT that can be used to get bonding discounts at the Treasury is automatically created once a user locks up a certain amount of PEARL for a given time.
+
+Additionally, our artist and developers have already put together the main features of the Otto Genesis Collection, a unique NFT that will provide certain privileges within the Otter Kingdom, such as breeding, discounts, and exclusive access. Ottos will also be among the first NFTs available at PAW Market, the Otter Kingdom's own NFT platform where anyone can buy, sell, and trade their NFTs. The Otto Genesis Collection NFT rollout is expected by the end of March, and the platform will be launched in Q2 of 2022.
+
+
 
 ### 2022Q1 <a href="#2022q1" id="2022q1"></a>
 

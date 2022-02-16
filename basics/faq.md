@@ -2,15 +2,17 @@
 
 ## Why do we need OtterClam in the first place?
 
+
+
 Dollar-pegged stablecoins have become an essential part of crypto due to their lack of volatility as compared to tokens such as Bitcoin and Ether. Users are comfortable with transacting using stablecoins knowing that they hold the same amount of purchasing power today vs. tomorrow. But this is a fallacy. The dollar is controlled by the US government and the Federal Reserve. This means a depreciation of the dollar also means a depreciation of these stablecoins.
 
 OtterClam aims to solve this by creating a free-floating reserve currency, **CLAM**, which is backed by a basket of assets. By focusing on supply growth rather than price appreciation, OtterClam hopes that **CLAM** can function as a currency that can hold its purchasing power regardless of market volatility.
 
-As one of the oldest currencies humans used, we would like to present the first store of value memecoin - **CLAM**.
+As one of the oldest currencies humans used, we would like to present CLAM as the first store of value that fully integrates DeFi reserve currency tokenomics with a permissionless, open-source NFT platform on the Polygon network.
 
 ## Is CLAM a stable coin?
 
-No, **CLAM** is not a stable coin. Rather, **CLAM** aspires to become an algorithmic reserve memecoin backed by other decentralized assets. Similar to the idea of the gold standard, **CLAM** provides free-floating value its users can always fall back on, simply because of the fractional treasury reserves CLAM draws its intrinsic value from.
+No, **CLAM** is not a stable coin. Rather, **CLAM** aspires to become an algorithmic reserve coin backed by other decentralized assets. Similar to the idea of the gold standard, **CLAM** provides free-floating value its users can always fall back on, simply because of the fractional treasury reserves CLAM draws its intrinsic value from.
 
 ## CLAM is backed, not pegged.
 
@@ -29,7 +31,9 @@ Bond sales generate profit for the protocol, and the treasury uses the profit to
 (🦦,🦦) is the idea that, if everyone love otters, it would generate the greatest gain for everyone (from a [game theory](https://en.wikipedia.org/wiki/Game\_theory) standpoint). Currently, there are three actions a user can take:
 
 * Staking (🦦)
-* Bonding (![](../.gitbook/assets/favicon@2x.png))
+
+Bonding (![](../.gitbook/assets/favicon@2x.png))
+
 * Selling (💀)
 
 Staking and bonding are considered beneficial to the protocol, while selling is considered detrimental. Staking and selling will also cause a price move, while bonding does not (we consider buying CLAM from the market as a prerequisite of staking, thus causing a price move). If both actions are beneficial, the actor who moves price also gets half of the benefit (![](../.gitbook/assets/favicon@2x.png)). If both actions are contradictory, the bad actor who moves price gets half of the benefit (![](../.gitbook/assets/favicon@2x.png)), while the good actor who moves price gets half of the downside (💀). If both actions are detrimental, which implies both actors are selling, they both get half of the downside (💀).
@@ -55,7 +59,7 @@ It is extremely important to understand how early in development the OtterClam p
 
 **CLAM** could trade at a very high price because the market is ready to pay a hefty premium to capture a percentage of the current market capitalization. However, the price of **CLAM** could also drop to a large degree if the market sentiment turns bearish. We would expect significant price volatility during our growth phase so please **do your own research** whether this project suits your goals.
 
-## What is the point of buying it now when CLAM trades at a very high premium?
+## What is the point of buying CLAM if it is trading at a very high premium?
 
 When you buy and stake **CLAM**, you capture a percentage of the supply (market cap) that will remain close to a constant. This is because your staked **CLAM** balance also increases along with the circulating supply. The implication is that if you buy **CLAM** when the market cap is low, you would be capturing a larger percentage of the market cap.
 
@@ -65,7 +69,7 @@ Harvest is a mechanism by which your staked **CLAM** balance increases automatic
 
 ## What is reward yield?
 
-Reward yield is the percentage by which your staked **CLAM** balance increases on the next epoch. It is also known as _harvest rate_. You can find this number on the [OtterClam staking page](https://app.otterclam.finance/#/stake).
+Reward yield is the percentage by which your staked **CLAM** balance increases during the next epoch. It is also known as _harvest rate_. You can find this number on the [OtterClam staking page](https://app.otterclam.finance/#/stake).
 
 ## What is APY?
 
@@ -99,9 +103,9 @@ $$
 
 Note that the reward rate is subject to change by the protocol.
 
-## Why does the price of CLAM become irrelevant in long term?
+## Why does the price of CLAM become irrelevant over the long term?
 
-As illustrated above, your CLAM balance will grow exponentially over time thanks to the power of compounding. Let's say you buy a **CLAM** for $400 now and the market decides that in 1 year time, the intrinsic value of **CLAM** will be $2. Assuming a daily compound interest rate of 2%, your balance would grow to about 1377 **CLAMs** by the end of the year, which is worth around $2754. That is a cool $2354 profit! By now, you should understand that you are paying a premium for **CLAM** now in exchange for a long-term benefit. Thus, you should have a long time horizon to allow your **CLAM** balance to grow exponentially and make this a worthwhile investment.
+As illustrated above, your CLAM balance will grow exponentially over time thanks to the power of compounding. Let's say you buy a **CLAM** for $400 now and the market decides that in 1 year's time, the intrinsic value of **CLAM** will be $2. Assuming a daily compound interest rate of 2%, your balance would grow to about 1377 **CLAMs** by the end of the year, which is worth around $2754. That is a cool $2354 profit! By now, you should understand that you are paying a premium for **CLAM** now in exchange for a long-term benefit. Thus, you should have a long time horizon to allow your **CLAM** balance to grow exponentially and make this a worthwhile investment.
 
 ## What will be CLAM's intrinsic value in the future?
 
@@ -111,7 +115,7 @@ There is no clear answer for this, but the intrinsic value can be determined by 
 
 Let’s say the protocol targets an APY of 100,000%. This would translate to a harvest rate of about 0.6328%, or a daily growth of about 2%. Please refer to the equation above to learn [how APY is calculated from the harvest rate](faq.md#how-is-the-apy-calculated).
 
-If there are 100,000 of **CLAM** staked right now, the protocol would need to mint an additional 2000 **CLAM** to achieve this daily growth. This is achievable if the protocol can bring in at least 2000 MAI daily from bond sales. If the protocol fails to achieve this, the APY of 100,000% cannot be guaranteed.
+If there are 100,000 **CLAM** staked right now, the protocol would need to mint an additional 2000 **CLAM** to achieve this daily growth. This is achievable if the protocol can bring in at least 2000 MAI daily from bond sales. If the protocol fails to achieve this, the APY of 100,000% cannot be guaranteed.
 
 ## Do I have to unstake and stake CLAM on every epoch to get my harvest rewards?
 
