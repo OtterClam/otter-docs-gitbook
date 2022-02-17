@@ -47,7 +47,7 @@
 * QiDAO MAI/USDC Investment: [0x07DB6BFbD71E9DE0AfF3ab3eAe4CBC7B13EEF952](https://polygonscan.com/address/0x07DB6BFbD71E9DE0AfF3ab3eAe4CBC7B13EEF952)
 * QiDAO QI/WMATIC Investment: [0xC3356D852330e947144400d237563288c59F3539](https://polygonscan.com/address/0xC3356D852330e947144400d237563288c59F3539#code)
 * QuickSwap Investment: [0x4933a7e336d91d0fc48773b99ba89bef4106f7d3](https://polygonscan.com/address/0x4933a7e336d91d0fc48773b99ba89bef4106f7d3)
-* Buyback: [0x40a925a07435700b8F22f946AED0627c72385D33](https://polygonscan.com/address/0x40a925a07435700b8F22f946AED0627c72385D33#code)
+* Buyback: [0x155D21B6D7EB5DD1035A9Ae57201C20ff1ea90D2](https://polygonscan.com/address/0x155D21B6D7EB5DD1035A9Ae57201C20ff1ea90D2#code)
 
 ### Migrator <a href="#migrator" id="migrator"></a>
 

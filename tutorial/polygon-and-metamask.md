@@ -36,7 +36,7 @@ The first step you need to do to use the Polygon network is to install the Metam
 
 Once downloaded and installed, you should see it in your browser extensions area.
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 When you open it for the first time, Metamask will ask if you have a Metamask account. if yes, you need to write the \*\*seed phrase (\*\*we'll get to the importance of the seed phrase later) \_\*\*\_of the account you want to import.
 
