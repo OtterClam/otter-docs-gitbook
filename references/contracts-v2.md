@@ -30,9 +30,9 @@
 
 ### LP <a href="#quickswap-lp" id="quickswap-lp"></a>
 
-* QuickSwap - MAI/CLAM2: [0x1581802317f32A2665005109444233ca6E3e2D68](https://polygonscan.com/address/0x1581802317f32a2665005109444233ca6e3e2d68)
-* SushiSwap - FRAX/CLAM2: [0x1f847e05afaf47ec54626928d0e6c235663e938f](https://polygonscan.com/address/0x1f847e05afaf47ec54626928d0e6c235663e938f)
-* QuickSwap - MATIC/CLAM2: [0x3fcc446c70489610462be9d61528c51151aca49f](https://polygonscan.com/address/0x3fcc446c70489610462be9d61528c51151aca49f)​
+* QuickSwap - MAI/CLAM: [0x1581802317f32A2665005109444233ca6E3e2D68](https://polygonscan.com/address/0x1581802317f32a2665005109444233ca6e3e2d68)
+* SushiSwap - FRAX/CLAM: [0x1f847e05afaf47ec54626928d0e6c235663e938f](https://polygonscan.com/address/0x1f847e05afaf47ec54626928d0e6c235663e938f)
+* QuickSwap - MATIC/CLAM: [0x3fcc446c70489610462be9d61528c51151aca49f](https://polygonscan.com/address/0x3fcc446c70489610462be9d61528c51151aca49f)​
 
 ### Investment <a href="#migrator" id="migrator"></a>
 
