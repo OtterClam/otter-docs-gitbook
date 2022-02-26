@@ -43,8 +43,8 @@
 * Buyback: [0x155D21B6D7EB5DD1035A9Ae57201C20ff1ea90D2](https://polygonscan.com/address/0x155D21B6D7EB5DD1035A9Ae57201C20ff1ea90D2#code)
 * OtterClam Qi Proxy: [0x0906ee253B2cD6737A3CD3838490Cb0b90fD68be](http://polygonscan.com/address/0x0906ee253B2cD6737A3CD3838490Cb0b90fD68be)
   * Implementation: [0xac1e872ad9b9fc91643daa94f7d19fb0b67fc5eb](https://polygonscan.com/address/0xac1e872ad9b9fc91643daa94f7d19fb0b67fc5eb)
-* Qi Locker: [0xC95B4fec9d9f211dFe4a99B287339bACEE8B62B7](https://polygonscan.com/address/0xC95B4fec9d9f211dFe4a99B287339bACEE8B62B7)
-  * Implementation: [0x26efb8b900caa5a0d7e755c0c4734ffeb39b13a2](https://polygonscan.com/address/0x26efb8b900caa5a0d7e755c0c4734ffeb39b13a2)
+* Qi Locker: [0x69f6c4Fa150F9F0b3037612CF8FadDAeDbd46Bb8](https://polygonscan.com/address/0x69f6c4Fa150F9F0b3037612CF8FadDAeDbd46Bb8)
+  * Implementation: [0x2ba33fd50cfbe454c4cd5d2f1e5b5cf439c5e6b5](https://polygonscan.com/address/0x2ba33fd50cfbe454c4cd5d2f1e5b5cf439c5e6b5)
 
 ### Migrator <a href="#migrator" id="migrator"></a>
 
