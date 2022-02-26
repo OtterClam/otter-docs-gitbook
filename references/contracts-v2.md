@@ -41,8 +41,10 @@
 * QiDAO QI/WMATIC Investment: [0xC3356D852330e947144400d237563288c59F3539](https://polygonscan.com/address/0xC3356D852330e947144400d237563288c59F3539#code)
 * QuickSwap Investment: [0x4933a7e336d91d0fc48773b99ba89bef4106f7d3](https://polygonscan.com/address/0x4933a7e336d91d0fc48773b99ba89bef4106f7d3)
 * Buyback: [0x155D21B6D7EB5DD1035A9Ae57201C20ff1ea90D2](https://polygonscan.com/address/0x155D21B6D7EB5DD1035A9Ae57201C20ff1ea90D2#code)
-* OtterClam Qi: [0x557442d408b45998dd83463b2148f49000f66564](https://polygonscan.com/address/0x557442d408b45998dd83463b2148f49000f66564)
-* Qi Locker: [0xdf21d42cbd7d36c52f95ee361f2b857d2b1ddef9](https://polygonscan.com/address/0xdf21d42cbd7d36c52f95ee361f2b857d2b1ddef9)
+* OtterClam Qi Proxy: [0x0906ee253B2cD6737A3CD3838490Cb0b90fD68be](http://polygonscan.com/address/0x0906ee253B2cD6737A3CD3838490Cb0b90fD68be)
+  * Implementation: [0xac1e872ad9b9fc91643daa94f7d19fb0b67fc5eb](https://polygonscan.com/address/0xac1e872ad9b9fc91643daa94f7d19fb0b67fc5eb)
+* Qi Locker: [0xC95B4fec9d9f211dFe4a99B287339bACEE8B62B7](https://polygonscan.com/address/0xC95B4fec9d9f211dFe4a99B287339bACEE8B62B7)
+  * Implementation: [0x26efb8b900caa5a0d7e755c0c4734ffeb39b13a2](https://polygonscan.com/address/0x26efb8b900caa5a0d7e755c0c4734ffeb39b13a2)
 
 ### Migrator <a href="#migrator" id="migrator"></a>
 
