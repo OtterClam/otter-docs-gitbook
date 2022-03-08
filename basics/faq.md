@@ -1,28 +1,22 @@
 # FAQ
 
-## Why do we need OtterClam in the first place?
+## What is OtterClam trying to do?
 
+OtterClam is a protocol that lets users more easily to enter the world of DeFi. We are a DAO-governed protocol that uses votes to decide the investment strategies of the treasury. The revenue of the treasury will be used to buy back CLAM and continually increase the treasury. Each **CLAM**, which is backed by a basket of assets, can be used to govern the protocol.
 
-
-Dollar-pegged stablecoins have become an essential part of crypto due to their lack of volatility as compared to tokens such as Bitcoin and Ether. Users are comfortable with transacting using stablecoins knowing that they hold the same amount of purchasing power today vs. tomorrow. But this is a fallacy. The dollar is controlled by the US government and the Federal Reserve. This means a depreciation of the dollar also means a depreciation of these stablecoins.
-
-OtterClam aims to solve this by creating a free-floating reserve currency, **CLAM**, which is backed by a basket of assets. By focusing on supply growth rather than price appreciation, OtterClam hopes that **CLAM** can function as a currency that can hold its purchasing power regardless of market volatility.
-
-As one of the oldest currencies humans used, we would like to present CLAM as the first store of value that fully integrates DeFi reserve currency tokenomics with a permissionless, open-source NFT platform on the Polygon network.
+As one of the oldest currencies used by humans, we would like to present CLAM as the first store of value that fully integrates DeFi reserve currency tokenomics with a permissionless, open-source NFT platform on the Polygon network.
 
 ## Is CLAM a stable coin?
 
-No, **CLAM** is not a stable coin. Rather, **CLAM** aspires to become an algorithmic reserve coin backed by other decentralized assets. Similar to the idea of the gold standard, **CLAM** provides free-floating value its users can always fall back on, simply because of the fractional treasury reserves CLAM draws its intrinsic value from.
+No, **CLAM** is not a stable coin. Rather, **CLAM** aspires to become an ETF-like share, backed by other decentralized assets.
 
 ## CLAM is backed, not pegged.
 
-Each **CLAM** is backed by 1 MAI, not pegged to it. Because the treasury backs every **CLAM** with at least 1 MAI, the protocol would buy back and burn **CLAM** when it trades below 1 MAI. This has the effect of pushing the **CLAM** price back up to 1 MAI. **CLAM** could always trade above 1 MAI because there is no upper limit imposed by the protocol. Think pegged == 1, while backed >= 1.
-
-You might say that the **CLAM** floor price or intrinsic value is 1 MAI. We believe that the actual price will always be 1 MAI + premium, but in the end that is up to the market to decide.
+Each **CLAM** is backed by underlying assets. Because the treasury backs every **CLAM** with underlying assets, the protocol buys back **CLAM** when it trades below the backing. This has the effect of pushing the **CLAM** price back up to the backing value. **CLAM** could always trade above backing value because there is no upper limit imposed by the protocol.&#x20;
 
 ## How does it work?
 
-At a high level, OtterClam consists of its protocol managed treasury, protocol owned liquidity ([POL](../references/glossary.md#pol)), bond mechanism, and staking rewards that are designed to control supply expansion.
+At a high level, OtterClam consists of its protocol-managed treasury, protocol-owned liquidity ([POL](../references/glossary.md#pol)), bond mechanism, and staking rewards that are designed to control supply expansion.
 
 Bond sales generate profit for the protocol, and the treasury uses the profit to mint **CLAM** and distribute them to stakers. With [liquidity bonds](../references/glossary.md#liquidity-bonds), the protocol is able to accumulate its own liquidity. Check out the entry below on [the importance of POL](faq.md#why-is-pol-important).
 
@@ -46,18 +40,6 @@ Thus, given two actors, all scenarios of what they could do and the effect on th
 * If one of us stakes and the other one bonds, it is also great because staking takes **CLAM** off the market and puts it into the protocol, while bonding provides liquidity and MAI for the treasury.
 * When one of us sells, it diminishes the effort of the other one who stakes or bonds.
 * When we both sell, it creates the worst outcome for both of us and the protocol (💀,💀).
-
-## Why is PCV important?
-
-As the protocol controls the funds in its treasury, **CLAM** can only be minted or burned by the protocol. This also guarantees that the protocol can always back 1 **CLAM** with 1 MAI. You can easily define the risk of your investment because you can be confident that the protocol will indefinitely buy **CLAM** below 1 MAI with the treasury assets until no one is left to sell. You can't trust the FED but you can trust the code.
-
-As the protocol accumulates more PCV, more runway is guaranteed for the stakers. This means the stakers can be confident that the current staking APY can be sustained for a longer term because more funds are available in the treasury.
-
-## Why is the market price of CLAM so volatile?
-
-It is extremely important to understand how early in development the OtterClam protocol is. A large amount of discussion has centered around the current price and expected a stable value moving forward. The reality is that these characteristics are not yet determined. The network is currently tuned for expansion of **CLAM** supply, which when paired with the staking, bonding, and yield mechanics of OtterClam, result in a fair amount of volatility.
-
-**CLAM** could trade at a very high price because the market is ready to pay a hefty premium to capture a percentage of the current market capitalization. However, the price of **CLAM** could also drop to a large degree if the market sentiment turns bearish. We would expect significant price volatility during our growth phase so please **do your own research** whether this project suits your goals.
 
 ## What is the point of buying CLAM if it is trading at a very high premium?
 
@@ -102,10 +84,6 @@ CLAM_{distributed} = CLAM_{totalSupply} \times rewardRate
 $$
 
 Note that the reward rate is subject to change by the protocol.
-
-## Why does the price of CLAM become irrelevant over the long term?
-
-As illustrated above, your CLAM balance will grow exponentially over time thanks to the power of compounding. Let's say you buy a **CLAM** for $400 now and the market decides that in 1 year's time, the intrinsic value of **CLAM** will be $2. Assuming a daily compound interest rate of 2%, your balance would grow to about 1377 **CLAMs** by the end of the year, which is worth around $2754. That is a cool $2354 profit! By now, you should understand that you are paying a premium for **CLAM** now in exchange for a long-term benefit. Thus, you should have a long time horizon to allow your **CLAM** balance to grow exponentially and make this a worthwhile investment.
 
 ## What will be CLAM's intrinsic value in the future?
 

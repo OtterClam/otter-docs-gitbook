@@ -18,4 +18,4 @@ Additionally, our artist and developers have already put together the main featu
 
 ### 2022Q2 <a href="#2022q2" id="2022q2"></a>
 
-* [ ] NFT marketplace with CLAM!
+* [ ] The permissionless NFT marketplace - PAW Market
