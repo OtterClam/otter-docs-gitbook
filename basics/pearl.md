@@ -4,11 +4,11 @@
 
 ### What is PEARL? <a href="#what-is-pearl" id="what-is-pearl"></a>
 
-Users can choose to wrap their sCLAM, which converts it to a standardized ERC20 token. Instead of your token amount increasing, the value of PEARL itself increases. This allows you to gain the rewards you would normally gain from Staking, without having an increasing amount of tokens in your portfolio.
+Users can choose to wrap their sCLAM, which converts it to a standardized ERC20 token. Instead of your token amount increasing, the value of PEARL itself increases. This allows you to gain the rewards you would normally gain from staking, without having an increasing amount of tokens in your portfolio.
 
 Users can also unwrap their PEARL tokens to receive sCLAM at any time.
 
-> **sClam increases in amount over time, while PEARL increases in price.**
+> **sCLAM increases in amount over time, while PEARL increases in price.**
 
 ### Why is this relevant? <a href="#why-is-this-relevant" id="why-is-this-relevant"></a>
 
