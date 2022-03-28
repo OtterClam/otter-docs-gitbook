@@ -10,7 +10,7 @@ As one of the oldest currencies used by humans, we would like to present CLAM as
 
 No, **CLAM** is not a stable coin. Rather, **CLAM** aspires to become an ETF-like share, backed by other decentralized assets.
 
-## CLAM is backed, not pegged.
+CLAM is backed, not pegged.
 
 Each **CLAM** is backed by underlying assets. Because the treasury backs every **CLAM** with underlying assets, the protocol buys back **CLAM** when it trades below the backing. This has the effect of pushing the **CLAM** price back up to the backing value. **CLAM** could always trade above backing value because there is no upper limit imposed by the protocol.&#x20;
 
