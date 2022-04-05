@@ -41,7 +41,6 @@
 
 * LP Converter: [0x5F54c368e10196779cA40a4dFB55aD9B5532c099](https://polygonscan.com/address/0x5F54c368e10196779cA40a4dFB55aD9B5532c099)
 * QiDAO MAI/USDC Investment: [0x07DB6BFbD71E9DE0AfF3ab3eAe4CBC7B13EEF952](https://polygonscan.com/address/0x07DB6BFbD71E9DE0AfF3ab3eAe4CBC7B13EEF952)
-* QiDAO QI/WMATIC Investment: [0xC3356D852330e947144400d237563288c59F3539](https://polygonscan.com/address/0xC3356D852330e947144400d237563288c59F3539#code)
 * QuickSwap Investment: [0x4933a7e336d91d0fc48773b99ba89bef4106f7d3](https://polygonscan.com/address/0x4933a7e336d91d0fc48773b99ba89bef4106f7d3)
 * Buyback: [0x017aDb26B2Ea4dbd9f1372710748e1388fa3082a](https://polygonscan.com/address/0x017aDb26B2Ea4dbd9f1372710748e1388fa3082a#code)
 * OtterClam Qi: [0x0906ee253B2cD6737A3CD3838490Cb0b90fD68be](http://polygonscan.com/address/0x0906ee253B2cD6737A3CD3838490Cb0b90fD68be)
@@ -56,7 +55,7 @@
 
 * pCLAM: [0xe26437f684611364498c57b121B3C0C91e0FBA65](https://polygonscan.com/address/0xe26437f684611364498c57b121B3C0C91e0FBA65)
 
-### Deprecated Bonds
+### Deprecated Contracts
 
 * FRAX (4,4) v2: [0x9e1430EB3b56e8953a342BFBBdD2DDC3b6E84d9D](https://polygonscan.com/address/0x9e1430EB3b56e8953a342BFBBdD2DDC3b6E84d9D)
 * FRAX-CLAM (4,4): [0xd99c8aF24c5E7fd6E292b1682Ec0f0cB3535e002](https://polygonscan.com/address/0xd99c8aF24c5E7fd6E292b1682Ec0f0cB3535e002)
@@ -64,3 +63,6 @@
 * MAI bond: [0x603A74Fd527b85E0A1e205517c1f24aC71f5C263](https://polygonscan.com/address/0x603A74Fd527b85E0A1e205517c1f24aC71f5C263)
 * MAI/CLAM LP bond: [0x706587BD39322A6a78ddD5491cDbb783F8FD983E](https://polygonscan.com/address/0x706587BD39322A6a78ddD5491cDbb783F8FD983E)​
 * FRAX (4,4) bond​ v1: [0x5Fa0FBDb07Fe9647B43426dcc79da984f0327E4a](https://polygonscan.com/address/0x5Fa0FBDb07Fe9647B43426dcc79da984f0327E4a)
+*   QiDAO QI/WMATIC Investment: [0xC3356D852330e947144400d237563288c59F3539](https://polygonscan.com/address/0xC3356D852330e947144400d237563288c59F3539#code)
+
+    > Move to Qi Locker
