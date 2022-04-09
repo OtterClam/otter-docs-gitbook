@@ -13,6 +13,7 @@
 * Circulating Supply: [0x99ee91871cf39A44E3Fc842541274d7eA05AE4b3](https://polygonscan.com/address/0x99ee91871cf39A44E3Fc842541274d7eA05AE4b3)​
 * Otter Lake: [0xc67aBdA25D0421FE9Dc1afd64183b179A426a256](https://polygonscan.com/address/0xc67aBdA25D0421FE9Dc1afd64183b179A426a256)
 * Otter Lake Distributor: [0xbB268A4b6be1bD2E676bfd46aaEA03A100324d35](https://polygonscan.com/address/0xbB268A4b6be1bD2E676bfd46aaEA03A100324d35)
+* Otter Lake Claim Helper: [0xD62560E0d4084Fd243B5369CFFcb1391d748FcE8](https://polygonscan.com/address/0xD62560E0d4084Fd243B5369CFFcb1391d748FcE8#readProxyContract)
 
 ### **Bonds** <a href="#bonds" id="bonds"></a>
 
